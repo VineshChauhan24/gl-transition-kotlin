@@ -1,0 +1,17 @@
+{
+  "name": "transition-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gl-transitions": "^1.43.0",
+    "handlebars": "^4.1.2",
+    "lodash": "^4.17.11"
+  }
+}
