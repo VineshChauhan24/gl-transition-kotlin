@@ -12,6 +12,6 @@
   "dependencies": {
     "gl-transitions": "^1.43.0",
     "handlebars": "^4.1.2",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.13"
   }
 }
